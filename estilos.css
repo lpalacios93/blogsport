@@ -1,6 +1,16 @@
-body{
+main{
+    border-color: black;
+    border: black;
+    background-color: aqua;
+}
+
+h1{
+    font-size: 1.5rem;
+    color: blue;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: bisque;
-    
+}
+
+p{
+    text-align: center;
+    color: black;
 }
